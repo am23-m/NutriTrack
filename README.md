@@ -31,4 +31,4 @@ This project is intended to help users track their daily nutrition and build hea
 
 ## Author
 
-Alok Kumar
+AM
